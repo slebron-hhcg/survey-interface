@@ -1,0 +1,32 @@
+Enter file contents here<div class="page-header blue-header">
+        <div class="log-button-left2 text-center">
+            <a href="/tourweb/"><i class="fa fa-home white round-circle"></i></a>
+        </div>
+        <div class="clearfix"></div>
+        <div class="log-button-left text-center" style="display: none;">
+                <a href="/tourweb/"><i class="fa fa-arrow-left white round-circle"></i></a>
+            
+        </div>
+
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 text-center">
+            <a class="logo" href="#">
+                <img alt="logo" src="/tourweb/images/logo_new.png"></a>
+        </div>
+        <div class="log-button-right text-center">
+            
+            
+            <a title="Dashboard" id="aDashboard" href="/tourweb/Reporting/ReportDashboard"><i class="fa fa-tachometer white round-circle"></i>
+                <span style="color: rgb(249, 249, 249); font-size: 12px; margin-top: 5px; display: block;">Reports</span>
+            </a>
+
+            
+            
+
+            
+
+            <a title="Log Off" href="/tourweb/Account/LogOff"><i class="fa fa-power-off white round-circle"></i>
+                <span style="color: rgb(249, 249, 249); font-size: 12px; margin-top: 5px; display: block;">Log Off</span>
+            </a>
+
+        </div>
+    </div>
